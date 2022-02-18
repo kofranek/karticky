@@ -1,0 +1,20 @@
+git remote add origin https://github.com/kofranek/karticky.git
+git branch -M main
+git push -u origin main
+
+git init
+git clone url nebo git remote add origin url
+
+git status
+git log
+git log --oneline
+git push origin master
+
+git branch
+git diff
+git diff soubor
+
+pull request
+
+git pull origin master
+
